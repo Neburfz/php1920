@@ -1,5 +1,5 @@
 <HTML>
-	<HEAD> <TITLE> Bingo </TITLE> </HEAD>
+	<HEAD> <TITLE> Bingo Online en el Cloud</TITLE> </HEAD>
 	<BODY>
 	<?php
 	
