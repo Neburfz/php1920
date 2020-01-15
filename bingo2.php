@@ -79,7 +79,7 @@
 	echo "<h4 align='center'>$njug[$r]</h4>";
 	echo "<table border='1' align='center'>";
 		for($x=0;$x<3;$x++){
-			$jugador [$njug[$r]][$x]=rellenarArrays();
+			$jugador[$njug[$r]][$x]=rellenarArrays();
 			
 			//Mostramos por pantalla:
 			echo "<tr><td align='center' colspan='15'>".($x+1)." carton </td></tr>";
