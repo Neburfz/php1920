@@ -36,6 +36,7 @@ else{
 		}
 		
 		$ide_dep_nuevo = $r + 1;
+	  	$ide_dep_nuevo=intval($$ide_dep_nuevo);
 		$sql2 = "insert into departamento values ('$ide_dep_nuevo', '$nombre')";
 		mysqli_query($conn,$sql2);
 	}
