@@ -1,6 +1,6 @@
 <?php
 
-$servername = "mysql";
+$servername = "172.30.145.129";
 $username = "root";
 $password = "rootroot";
 $dbname = "empleadosnm";
